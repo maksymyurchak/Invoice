@@ -1,0 +1,4 @@
+Invoice.MainActivity, invoice;md555c5f152cc0628e9712300990ea4ee1e.MainActivity
+Invoice.MainActivity, invoice, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md555c5f152cc0628e9712300990ea4ee1e.MainActivity
+Invoice.MainActivity;md555c5f152cc0628e9712300990ea4ee1e.MainActivity
+invoice.MainActivity;md555c5f152cc0628e9712300990ea4ee1e.MainActivity

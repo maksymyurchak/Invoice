@@ -1,0 +1,11 @@
+C:\Users\wukar\source\repos\invoice\Invoice.API\bin\Debug\netcoreapp2.0\Invoice.API.deps.json
+C:\Users\wukar\source\repos\invoice\Invoice.API\bin\Debug\netcoreapp2.0\Invoice.API.runtimeconfig.json
+C:\Users\wukar\source\repos\invoice\Invoice.API\bin\Debug\netcoreapp2.0\Invoice.API.runtimeconfig.dev.json
+C:\Users\wukar\source\repos\invoice\Invoice.API\bin\Debug\netcoreapp2.0\Invoice.API.dll
+C:\Users\wukar\source\repos\invoice\Invoice.API\obj\Debug\netcoreapp2.0\Invoice.API.csprojResolveAssemblyReference.cache
+C:\Users\wukar\source\repos\invoice\Invoice.API\obj\Debug\netcoreapp2.0\Invoice.API.csproj.CoreCompileInputs.cache
+C:\Users\wukar\source\repos\invoice\Invoice.API\obj\Debug\netcoreapp2.0\Invoice.API.AssemblyInfoInputs.cache
+C:\Users\wukar\source\repos\invoice\Invoice.API\obj\Debug\netcoreapp2.0\Invoice.API.AssemblyInfo.cs
+C:\Users\wukar\source\repos\invoice\Invoice.API\bin\Debug\netcoreapp2.0\Invoice.API.pdb
+C:\Users\wukar\source\repos\invoice\Invoice.API\obj\Debug\netcoreapp2.0\Invoice.API.dll
+C:\Users\wukar\source\repos\invoice\Invoice.API\obj\Debug\netcoreapp2.0\Invoice.API.pdb
